@@ -1,0 +1,13 @@
+asgiref==3.2.5
+cffi==1.14.0
+coverage==5.0.4
+cryptography==2.8
+Django==3.0.4
+django-cors-headers==3.2.1
+django-rest-knox==4.1.0
+djangorestframework==3.11.0
+drf-nested-routers==0.91
+pycparser==2.20
+pytz==2019.3
+six==1.14.0
+sqlparse==0.3.1
