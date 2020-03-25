@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\frontend",
+    "\\frontend\\src\\actions",
+    "\\frontend\\src\\components",
+    "\\frontend\\src\\components\\layout",
+    "\\frontend\\src\\components\\leads",
+    "\\frontend\\src\\reducers",
+    "\\frontend\\static\\frontend"
+  ],
+  "SelectedNode": "\\frontend\\src",
+  "PreviewInSolutionExplorer": false
+}
