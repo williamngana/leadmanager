@@ -23,9 +23,9 @@ const Formprops = {
 
 
 //Test to show that the sub componets are renderng properly
-describe('<From />', () => {  
+describe('<Form />', () => {  
     it('should have list he From prop in an accordion', () => {     
-      const wrapper = shallow(<From {...Fromprops}/>)
-      expect(wrapper.find('h1')).text('Add Leads')
+      const wrapper = shallow(<Form {...Formprops}/>)
+      expect(wrapper.find('h1').text()).toBe('Add Leads')
     })
   })

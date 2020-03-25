@@ -10,7 +10,6 @@ export class Header extends Component {
     const privateLinks = (
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul className="navbar-nav mr-sm-2">
-                        <li className='nav-item'> {user? user.usename:''} </li>  
                         <li className='nav-item'> 
                         <button className = "btn btn-primary btn-sm" onClick={this.props.logoutUser} >Logout</button>
                         </li>  
